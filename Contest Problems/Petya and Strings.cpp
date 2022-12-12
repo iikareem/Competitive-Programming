@@ -1,10 +1,15 @@
+
+
 #include<iostream>
 #include <cmath>
 #include <algorithm>
 #include <bits/stdc++.h> 
- 
+
+
+
+
 using namespace std;
- 
+
 int main()
 {
     
@@ -26,6 +31,6 @@ cin >> a >> b;
         cout << 0;
     }
     
- 
+
     return 0;
 }
